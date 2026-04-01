@@ -251,6 +251,7 @@ The first on-chain sports betting aggregator. Aggregates odds and liquidity from
 - [Hashdive](https://hashdive.com) - Advanced Polymarket and Kalshi analytics with Smart Scores
 - [Polysights](https://polysights.xyz) - AI-powered analytics with 30+ custom metrics and AI-driven summaries
 - [PolyAlertHub](https://polyalerthub.com) - Real-time alerts on profitable traders, whales, and market trends
+- [PolyMind](https://polyminds.netlify.app/) - Real-time Polymarket trading alerts with multi-AI analysis (Groq, Claude, Gemini) and 12 signal types
 
 ### News & Data
 - [Adjacent News](https://adjacent.news) - Forward-looking news platform with prediction market-driven insights
